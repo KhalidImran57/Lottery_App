@@ -1,22 +1,32 @@
-# lottery_app
+# 🎉 Lottery App – Flutter Based 🎯
 
-A new Flutter project.
+Welcome to the **Lottery App** – a simple, fun, and elegant Flutter application that randomly generates a number and shows whether the user has won or not!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎲 Random number generator (0 to 9)
+- 🥇 Winning logic with animated result
+- 📱 Responsive UI design
+- 🎨 Clean and simple layout
+- ⚡ Fast performance using Flutter framework
+
+---
+
+## 📸 Screenshots
+
 <p align="center">
-  <img src="https://github.com/KhalidImran57/Lottery_App/blob/main/a.PNG?raw=true" alt="Screenshot 1" width="250" height="500"/>
-  <img src="https://github.com/KhalidImran57/Lottery_App/blob/main/b.PNG?raw=true" alt="Screenshot 2" width="250" height="500"/>
-  <img src="https://github.com/KhalidImran57/Lottery_App/blob/main/c.PNG?raw=true" alt="Screenshot 3" width="250" height="500"/>
+  <img src="https://github.com/KhalidImran57/Lottery_App/blob/main/a.PNG?raw=true" alt="Screenshot 1" height="500" style="margin-right: 15px;" />
+  <img src="https://github.com/KhalidImran57/Lottery_App/blob/main/b.PNG?raw=true" alt="Screenshot 2" height="500" style="margin-right: 15px;" />
+  <img src="https://github.com/KhalidImran57/Lottery_App/blob/main/c.PNG?raw=true" alt="Screenshot 3" height="500" />
 </p>
 
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ How to Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/lottery_app.git
+   cd lottery_app
